@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm learning Python and C for now.
+Going to be working on solving all of the Project Euler challenges in as many languages as I can.
+Don't reach me.
+Pronouns He/Him.
